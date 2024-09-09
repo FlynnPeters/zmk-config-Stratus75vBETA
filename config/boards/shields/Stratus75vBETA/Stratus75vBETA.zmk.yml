@@ -2,7 +2,7 @@ file_format: "1"
 id: Stratus75vBETA
 name: Stratus75vBETA
 type: shield
-url: https://github.com/gtips/reviung/tree/master/reviung41
+url: https://github.com/FlynnPeters/zmk-config-Stratus75vBETA/actions
 requires: [pro_micro]
 features:
   - keys
