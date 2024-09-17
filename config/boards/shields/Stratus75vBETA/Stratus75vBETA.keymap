@@ -24,19 +24,12 @@
 // -------------------------------------------------------------------------------------
 
                         bindings = <
-    // Row 1: Function keys and Delete
     &kp ESC  &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F6 &kp F7 &kp F8 &kp F9 &kp F10 &kp F11 &kp F12 &kp DELETE
-    // Row 2: Number row with symbols
     &kp GRAVE &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7 &kp N8 &kp N9 &kp N0 &kp MINUS &kp EQUAL &kp BSPC
-    // Row 3: Tab and QWERTY row
     &kp TAB   &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I &kp O &kp P &kp LBKT &kp RBKT &kp BSLH
-    // Row 4: Caps lock and home row
     &kp CAPS  &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SEMI &kp SQT &kp ENTER
-    // Row 5: Shift and bottom row
     &kp LSHFT &kp Z &kp X &kp C &kp V &kp B &kp N &kp M &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-    // Row 6: Control, Win, Alt, Spacebar, and arrow keys
     &kp LCTRL &kp LGUI &kp LALT &kp SPACE &kp RALT &kp RCTRL
-    // Arrow keys
     &kp LEFT &kp DOWN &kp UP &kp RIGHT
                         >;
                 };
